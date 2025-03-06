@@ -14,5 +14,6 @@ Mentor: Neela Santhosh
 
 #Output:
 
-[Covid-19_Dashboard (1).pdf](https://github.com/user-attachments/files/19107814/Covid-19_Dashboard.1.pdf)
+
+![Screenshot 2025-03-06 172806](https://github.com/user-attachments/assets/5cc06dc5-3627-49eb-9f62-6ac7bf9e18ce)
 
