@@ -15,5 +15,6 @@ Mentor: Neela Santhosh
 #Output:
 
 
-![Screenshot 2025-03-06 172806](https://github.com/user-attachments/assets/5cc06dc5-3627-49eb-9f62-6ac7bf9e18ce)
+
+![Screenshot 2025-03-06 173035](https://github.com/user-attachments/assets/5b889e62-a6f3-47e8-80b7-fb3dd88b8e16)
 
